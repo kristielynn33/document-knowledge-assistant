@@ -1,0 +1,7 @@
+This is the Document Knowledge Assistant, a local Streamlit prototype.
+
+It searches two invented company-policy documents, displays the passages found, and asks for approval before sending them to Gemini.
+
+Responses include citations and can report insufficient evidence. The evaluation uses simulated answers and manual reviews, not a general accuracy measurement.
+
+This portfolio uses invented sample data.
