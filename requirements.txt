@@ -1,0 +1,6 @@
+scikit-learn>=1.5,<2
+pytest>=8,<10
+google-genai
+python-dotenv
+pydantic>=2,<3
+streamlit

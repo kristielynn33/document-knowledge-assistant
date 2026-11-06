@@ -1,0 +1,18 @@
+# Credentials and local settings
+.env
+.env.*
+!.env.example
+
+# Python environment and caches
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Generated indexes, logs, and local data
+data/
+*.log
+
+# Windows files
+Thumbs.db
+Desktop.ini
