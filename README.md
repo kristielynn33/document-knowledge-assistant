@@ -288,6 +288,13 @@ See `EVALUATION.md` for the small evaluation sample and its limitations.
 
 \- The evaluation set is small and does not establish general accuracy.
 
+Audio walkthrough
+Download the project narration (WAV)
+
+This audio overview uses a Windows synthetic voice. It describes the working pipeline, validation checks, Tableau reporting, and supervised question-answering features.
+
+This is narration only, not a screen-recorded demonstration.
+
 \- The assistant is a local portfolio prototype, not a production system.
 
 \- Live model responses can vary between requests and model versions.
